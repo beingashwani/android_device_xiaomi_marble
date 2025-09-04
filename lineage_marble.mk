@@ -25,12 +25,12 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 #AxionAosp Flags
-
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_DISABLE_EPPE := true
 TARGET_ENABLE_BLUR := true
 TARGET_INCLUDE_VIPERFX := true
 TARGET_INCLUDES_LOS_PREBUILTS := true
+
 # Maintainer name (use "_" for spaces, e.g., "rmp_22" → "rmp 22" in UI)
 AXION_MAINTAINER := Ashwani
 
