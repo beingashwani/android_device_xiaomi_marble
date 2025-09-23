@@ -46,7 +46,5 @@ AXION_CAMERA_FRONT_INFO := 16  # Example: 42MP
 DEX2OAT_CORES := 0,1
 DEX2OAT_THREADS := 2
 
-# High Brightness Mode (HBM)
-HBM_SUPPORTED := true
-HBM_NODE := /sys/class/backlight/panel0-backlight/hbm_mode
-
+# Flash Strength 
+TORCH_STR_SUPPORTED := true
