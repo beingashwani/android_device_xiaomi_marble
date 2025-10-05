@@ -42,9 +42,5 @@ AXION_CAMERA_REAR_INFO := 64,8,2  # Example: 50MP + 48MP
 # Define front camera specs
 AXION_CAMERA_FRONT_INFO := 16  # Example: 42MP
 
-# Dex2oat opti
-DEX2OAT_CORES := 0,1
-DEX2OAT_THREADS := 2
-
 # Flash Strength 
 TORCH_STR_SUPPORTED := true
